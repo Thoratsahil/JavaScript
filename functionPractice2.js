@@ -6,10 +6,14 @@ function ap(msg){
         {
             
             count++;
-        }
-    }
+            
 
-    //console.log(ap("sahil"));
-    console.log(count);
-    
+        }
+        
+    }
+    return count;
 }
+    //return count;
+   let d=ap("aapp")
+    console.log(d);
+    
