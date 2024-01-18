@@ -12,5 +12,5 @@ console.dir(c);
 let h=document.querySelector("h2");
 console.dir(h.innerText);
 
-h.innerText=h.innerText + " from Students";
+h.innerText=h.innerText + " from Students"; //
 console.dir(h.innerText);
